@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Projects on Real World Challenges**
 
 - 📝 I regularly write articles on [https://medium.com/@jerinthomas11](https://medium.com/@jerinthomas11)
 
