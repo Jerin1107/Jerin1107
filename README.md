@@ -1,4 +1,4 @@
-![MasterHead]( https://i0.wp.com/idsc.miami.edu/wp-content/uploads/2020/02/Data-Science-Image-HEADER.jpg?resize=1110%2C530&ssl=1)
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_S2qYzhyUMPWyqRaNghRycz5jNekKZzWQCEisTNR0k0)
 <h1 align="center">Hi 👋, I'm Jerin</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate data scientist on a journey to unravel the hidden insights within data and drive informed decision-making.</h3>
 
