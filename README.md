@@ -23,7 +23,7 @@
    - 🎓 Master's in Data Science @ Indiana University Bloomington
     - 💼 Data Science Project Manager @ Cyberinfrastructure for Network Science Center, IUB, USA
     - 💻 Data Engineer & Business Intelligence Engineer @ Tata Consultancy Services, Pune, India
-    - 🌱 Always eager to learn and explore new technologies**
+    - 🌱 Always eager to learn and explore new technologies
 
 - 📫 How to reach me **jerinthomas11@gmail.com**
 
